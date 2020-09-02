@@ -1,0 +1,15 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+
+.card-footer {
+    background-color: darkorange;
+    font-style: italic;
+}
+
+.card-body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: dashed;
+}
